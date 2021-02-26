@@ -1,7 +1,7 @@
 module.exports = {
     title:'文档管理',
     description:'Hello VuePress',
-    base:'/docs/',
+    base:'/vuepressDocs/',
     head:[
         ['link',{rel:'icon',href:'/favicon.ico'}]
     ],
